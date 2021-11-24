@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:17:11	26/26	---M--	200	added ('OK')	text/plain	date:Wed,%2024%20Nov%202021%2015:15:32%20GMT	https://gateway-challenge.surge.sh/robots.txt		(from )
+16:17:11	3257/3257	---MCZ	200	added ('OK')	text/html	date:Wed,%2024%20Nov%202021%2015:15:33%20GMT	https://gateway-challenge.surge.sh/	/home/obiajulu/Templates/Front/simpecheckout/gateway-challenge.surge.sh/index.html	(from )
+16:17:12	1561/1561	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2024%20Nov%202021%2015:17:11%20GMT	https://fonts.gstatic.com/	/home/obiajulu/Templates/Front/simpecheckout/fonts.gstatic.com/index.html	(from https://gateway-challenge.surge.sh/)
+16:17:12	456/456	---MC-	200	added ('OK')	text/css	date:Wed,%2024%20Nov%202021%2015:17:11%20GMT	https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap	/home/obiajulu/Templates/Front/simpecheckout/fonts.googleapis.com/css26f38.css	(from https://gateway-challenge.surge.sh/)
+16:17:12	1611/1611	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2024%20Nov%202021%2015:17:11%20GMT	https://fonts.googleapis.com/	/home/obiajulu/Templates/Front/simpecheckout/fonts.googleapis.com/index.html	(from https://gateway-challenge.surge.sh/)
+16:17:13	51/51	---MCZ	200	added ('OK')	text/plain	date:Wed,%2024%20Nov%202021%2015:17:12%20GMT	https://fonts.googleapis.com/robots.txt		(from https://gateway-challenge.surge.sh/)
+16:17:13	1571/1571	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2024%20Nov%202021%2015:17:13%20GMT	https://fonts.gstatic.com/robots.txt		(from https://gateway-challenge.surge.sh/)
